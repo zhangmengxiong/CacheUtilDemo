@@ -18,7 +18,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        CacheParams cacheParams = new CacheParams("/sdcard/cache");
+        CacheParams cacheParams = new CacheParams("/sdcard/cache1");
         cacheParams.setDiskCacheCount(100);
         cacheParams.setMemCacheSizePercent(this, 0.06f);
 
