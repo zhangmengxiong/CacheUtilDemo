@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Git\CacheUtilDemo\app\build\intermediates\exploded-aar\CacheUtilDemo\MXCache\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2993cbc9e462a370b702412e3c985c0d783a07fe">
+        <dex dex="E:\Git\CacheUtilDemo\app\build\intermediates\pre-dexed\debug\CacheUtilDemo-MXCache-unspecified_43fc3d2349b390ab327d100317cd88a5b24e30ca.jar" />
+    </item>
+
+</items>
